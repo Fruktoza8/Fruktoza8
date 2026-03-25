@@ -5,7 +5,7 @@
 - Selenium
 - Парсеры сайтов
 
-- Solidity Rust
+- Solidity в процессе
 - Смарт-контракты Ethereum/Solana
 
 **Нейронки**
